@@ -2,8 +2,9 @@ package DEMO;
 
 public class demo1 
 {
-  public void master()
+  public void testing()
   {
-	  System.out.println("in master");
+	  System.out.println("satish in testing");
   }
+  
 }
